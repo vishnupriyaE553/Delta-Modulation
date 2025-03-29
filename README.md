@@ -8,6 +8,7 @@ Software:Google colab
 Python libraries: Numpy,Matplotlib
 
 Program:
+~~~
 #DELTA MODULATION 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -76,7 +77,7 @@ plt.grid()
 
 plt.tight_layout()
 plt.show()
-
+~~~
 Output Waveform :
 ![download](https://github.com/user-attachments/assets/55cb2c32-7518-4b09-a620-3e698fa46712)
 
