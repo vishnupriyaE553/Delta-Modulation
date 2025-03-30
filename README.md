@@ -79,7 +79,7 @@ plt.tight_layout()
 plt.show()
 ~~~
 Output Waveform :
-![download](https://github.com/user-attachments/assets/55cb2c32-7518-4b09-a620-3e698fa46712)
+![image](https://github.com/user-attachments/assets/df8d9496-d79d-4a94-8e72-10d99fbb9f44)
 
 Result : 
 The Construction and Re-construction of delta modulation using python are verified.
